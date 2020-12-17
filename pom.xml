@@ -9,6 +9,7 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
     <modules>
+        <!-- 按模块顺序构建 -->
         <module>web-service</module>
         <module>deploy-service</module>
     </modules>
